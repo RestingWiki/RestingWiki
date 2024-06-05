@@ -25,18 +25,18 @@
   <code><img height="30" src="Image/Tools/Python.icon.png"></code> 
 
 ### ⚙️Tools
-
-  <code><img height="30" src="Image/Tools/Java.icon.png"></code> 
-  <code><img height="30" src="Image/Tools/C++.icon.png"></code> 
-  <code><img height="30" src="Image/Tools/Python.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/IntelliJ.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/PyCharm.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/Clion.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/VSC.icon.png"></code> 
 
 ### ⚒️ Past & Current Projects
 
 <p>
 Check out what I've been involved / currently involved in.
 
-- <a href="(https://github.com/RestingWiki/BiKipTramTrieu/tree/main)"> Pokemon game</a> | An attemp to make a Pokemon game using data gathered using PokeAPI
-- <a href="(https://github.com/nguyenpanda/ComputerGraphic)"> Computer Graphic</a> | Ongoing
+- <a href="https://github.com/RestingWiki/BiKipTramTrieu/tree/main"> Pokemon game</a> | An attemp to make a Pokemon game using data gathered using PokeAPI
+- <a href="https://github.com/nguyenpanda/ComputerGraphic"> Computer Graphic</a> | Ongoing
 </p>
 
 ### 💡What I'm Learning
