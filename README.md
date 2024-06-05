@@ -35,7 +35,7 @@
 <p>
 Check out what I've been involved / currently involved in.
 
-- <a href="https://github.com/RestingWiki/BiKipTramTrieu/tree/main"> Pokemon game</a> | An attemp to make a Pokemon game using data gathered using PokeAPI
+- <a href="https://github.com/RestingWiki/BiKipTramTrieu/tree/main"> Pokemon game</a> | An attempt to make a Pokemon game using data gathered using PokeAPI
 - <a href="https://github.com/nguyenpanda/ComputerGraphic"> Computer Graphic</a> | Ongoing
 </p>
 
