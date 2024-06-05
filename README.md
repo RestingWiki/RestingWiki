@@ -1,8 +1,8 @@
 ## Hey there! I'm Anh Khoa.
 
 <p align='center'>
-<a href="mailto:khoana2003@gmail.com"><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Contact/email_icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/bim.nguyen.1654"><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Contact/facebook_icon.png"></a>&nbsp;&nbsp;
+<a href="mailto:khoana2003@gmail.com"><img height="30" src="Image/Contact/email_icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/bim.nguyen.1654"><img height="30" src="Image/Contact/facebook_icon.png"></a>&nbsp;&nbsp;
 </p>
 
 ---
