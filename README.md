@@ -1,8 +1,8 @@
 ## Hey there! I'm Anh Khoa.
 
 <p align='center'>
-<a href="mailto:khoana2003@gmail.com"><img height="30" src="Image/Contact/email_icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/bim.nguyen.1654"><img height="30" src="Image/Contact/facebook_icon.png"></a>&nbsp;&nbsp;
+<a href="mailto:khoana2003@gmail.com"><img height="50" src="Image/Contact/email_icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/bim.nguyen.1654"><img height="50" src="Image/Contact/facebook_icon.png"></a>&nbsp;&nbsp;
 </p>
 
 ---
@@ -14,21 +14,21 @@
 </p>
 
 ### 🎮 Hobbies 
- <code><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Hobbies/ra2.ico"></code>
- <code><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Hobbies/ra2md.ico"></code>
+ <code><img height="30" src="Image/Hobbies/ra2.ico"></code>
+ <code><img height="30" src="Image/Hobbies/ra2md.ico"></code>
 
 
 ### 💻Programming language
 
-  <code><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Tools/Java.icon.png"></code> 
-  <code><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Tools/C++.icon.png"></code> 
-  <code><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Tools/Python.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/Java.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/C++.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/Python.icon.png"></code> 
 
 ### ⚙️Tools
 
-  <code><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Tools/Java.icon.png"></code> 
-  <code><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Tools/C++.icon.png"></code> 
-  <code><img height="30" src="https://github.com/RestingWiki/RestingWiki/blob/main/Tools/Python.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/Java.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/C++.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/Python.icon.png"></code> 
 
 ### ⚒️ Past & Current Projects
 
