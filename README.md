@@ -29,6 +29,7 @@
   <code><img height="30" src="Image/Tools/PyCharm.icon.png"></code> 
   <code><img height="30" src="Image/Tools/Clion.icon.png"></code> 
   <code><img height="30" src="Image/Tools/VSC.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/mysql.icon.png"></code> 
 
 ### ⚒️ Past & Current Projects
 
