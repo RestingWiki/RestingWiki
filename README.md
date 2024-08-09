@@ -39,7 +39,7 @@ Check out what I've been involved / currently involved in.
 - <a href="https://github.com/nguyenpanda/OECWebsite"> OEC Website</a> | Making a website for my club to prepare for OOW-OCD 2023
 - <a href="https://github.com/RestingWiki/BiKipTramTrieu/tree/main"> Pokemon game</a> | An attempt to make a Pokemon game using data gathered using PokeAPI
 - <a href="https://github.com/nguyenpanda/ComputerGraphic"> Computer Graphic</a> | Hiatus
-- <a href="https://github.com/RestingWiki/Minesweeper"> Minesweeper with AI</a> | A mine sweeper with built in AI
+- <a href="https://github.com/RestingWiki/Minesweeper"> Minesweeper with AI</a> | A minesweeper game with built in AI
 </p>
 
 ### 💡What I'm Learning
