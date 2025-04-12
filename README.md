@@ -47,6 +47,8 @@ Check out what I've been involved / currently involved in.
 Here are some things on my todo list.
 
 - _Comuter Graphic_ 🎨
+- _Comuter Vision_👀
+- _Natural Language Processing_🅰️
 - _Machine Learning_ 🤖
 
 
