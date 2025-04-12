@@ -26,11 +26,13 @@
 
 ### ⚙️Tools
   <code><img height="30" src="Image/Tools/IntelliJ.icon.png"></code> 
+  <code><img height="30" src="Image/Tools/NumPy.icon.png"></code>
+  <code><img height="30" src="Image/Tools/Pandas.png"></code>
+  <code><img height="30" src="Image/Tools/PyTorch.icon.png"></code> 
   <code><img height="30" src="Image/Tools/PyCharm.icon.png"></code> 
   <code><img height="30" src="Image/Tools/Clion.icon.png"></code> 
   <code><img height="30" src="Image/Tools/VSC.icon.png"></code> 
   <code><img height="30" src="Image/Tools/mysql.icon.png"></code> 
-
 ### ⚒️ Past & Current Projects
 
 <p>
@@ -47,8 +49,8 @@ Check out what I've been involved / currently involved in.
 Here are some things on my todo list.
 
 - _Comuter Graphic_ 🎨
-- _Comuter Vision_👀
-- _Natural Language Processing_🅰️
+- _Comuter Vision_ 👀
+- _Natural Language Processing_ 🅰️
 - _Machine Learning_ 🤖
 
 
