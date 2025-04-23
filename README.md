@@ -3,6 +3,7 @@
 <p align='center'>
 <a href="mailto:khoana2003@gmail.com"><img height="50" src="Image/Contact/email_icon.png"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/bim.nguyen.1654"><img height="50" src="Image/Contact/facebook_icon.png"></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/khoa-nguyễn-anh-5b5357314/"><img height="50" src="Image/Contact/linkedin_icon.png"></a>&nbsp;&nbsp;
 </p>
 
 ---
